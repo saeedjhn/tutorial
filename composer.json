@@ -4,6 +4,6 @@
 	"description": "The Tutorial ...",
 	
 	"require": {
-		"version": "4x"
+		"version": "3x"
 	}
 }
