@@ -1,0 +1,9 @@
+{
+	"name": "Tutorial/Tutorial",
+	"type": "project",
+	"description": "The Tutorial ...",
+	
+	"require": {
+		"version": "x"
+	}
+}
